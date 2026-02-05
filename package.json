@@ -11,7 +11,7 @@
     "history": "^4.10.1",
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^9.0.0",
     "react": "^16.13.1",
     "react-animate-height": "^2.0.21",
     "react-calendar": "^3.0.1",
@@ -24,7 +24,7 @@
     "react-redux": "^7.2.0",
     "react-ripples": "^2.2.1",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-spinners": "^0.8.1",
     "react-tooltip": "^4.0.0",
     "styled-components": "^5.1.0"
